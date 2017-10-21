@@ -2,7 +2,7 @@
 
 ## Need
 
-NodeJS
+NodeJS is required
 
 ## Install
 
