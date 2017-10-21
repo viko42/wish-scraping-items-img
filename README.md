@@ -1,5 +1,9 @@
 # wish-scraping-items-img
 
+## Need
+
+NodeJS
+
 ## Install
 
 ```
@@ -27,4 +31,3 @@ All directories with all images will be created into:
 ```
 ./uploads
 ```
-
